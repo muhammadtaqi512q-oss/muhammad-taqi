@@ -1,0 +1,4 @@
+flask
+torch
+transformers>=4.45.0
+accelerate
